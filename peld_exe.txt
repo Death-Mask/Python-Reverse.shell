@@ -1,0 +1,1 @@
+wine /home/sallam/.wine/drive_c/Python27/Scripts/pyinstaller.exe --onefile --noconsole client.py
